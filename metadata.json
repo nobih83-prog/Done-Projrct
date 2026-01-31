@@ -1,0 +1,7 @@
+{
+  "name": "Nashwa Luxury - Premium Shopping Experience",
+  "description": "An ultra-premium e-commerce platform featuring curated luxury items, exquisite UI/UX, and an AI-powered personal concierge named Nashwa.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
